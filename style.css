@@ -1,0 +1,20 @@
+.main {
+  text-align: center;
+}
+
+.result {
+  height: 50vw;
+  width: 50vw;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+h4 {
+  color: blueviolet;
+  margin: 0px;
+}
+
+button {
+  margin-bottom: 15px;
+}
